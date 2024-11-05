@@ -27,8 +27,8 @@ padding: 5px 20px;
     font-size: 25px;
 }
 .btn{
-    background-color: rgb(57, 47, 47);
-    color: white;
+    background-color: rgb(92, 138, 182);
+    color: rgb(243, 169, 169);
     font-size: 24px;
     padding: 10px 30px;
     display: block;
@@ -41,7 +41,7 @@ padding: 5px 20px;
 
 }
 .overlay{
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(158, 147, 147, 0.5);
     position: fixed;
     top: 0;
     left: 0;
@@ -68,7 +68,7 @@ padding: 5px 20px;
     flex-direction: column;
     justify-content:center ;
     align-items: center;
-    margin-top: 20\px;
+    margin-top: 20px;
 }
 .form-input{
     width: 300px;
